@@ -7,11 +7,11 @@
 
 **What did you learn about the dataset when you calculated the state with the lowest cases (and what does that tell you about testing your assumptions in a dataset)?**
 
-  _The states with the lowest cases was Northern Mariana Island, my assumption would be that     the island may not be as populated as some of the other areas the data was collected from     which can be tested by adding the population size for each area_.
+  _The states with the lowest cases was Northern Mariana Island, my assumption would be that     the island may not be as populated as some of the other areas the data was collected from     which can be tested by adding the population size for each area._
 
 **Is the location with the highest number of cases the location with the most deaths? If not, why do you believe that may be the case?**
 
-  _Yes, the location with highest number of cases is also the location with the most deaths_
+  _Yes, the location with highest number of cases is also the location with the most deaths._
 
 **Why are there so many observations (counties) in the variable lowest_in_each_state (i.e., wouldn't you expect the number to be ~50)?**
 
